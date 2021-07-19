@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: testpoolforpipeline
+pool: v-alsmo
 
 steps:
 - task: AzureKeyVault@2
